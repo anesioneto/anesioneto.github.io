@@ -9,17 +9,5 @@
         "name": "Anesio Neto"
     },
     "items": [
-        {
-            "id": "https://anesioneto.github.io/augmented-notes/",
-            "url": "https://anesioneto.github.io/augmented-notes/",
-            "title": "Augmented Notes",
-            "author": {
-                "name": "Anesio Neto"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-03-05T13:37:57+00:00",
-            "date_modified": "2026-03-05T16:41:59+00:00"
-        }
     ]
 }

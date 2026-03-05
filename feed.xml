@@ -3,22 +3,10 @@
     <title>Augmented Notes</title>
     <link href="https://anesioneto.github.io/feed.xml" rel="self" />
     <link href="https://anesioneto.github.io" />
-    <updated>2026-03-05T16:41:59+00:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Anesio Neto</name>
     </author>
     <id>https://anesioneto.github.io</id>
 
-    <entry>
-        <title>Augmented Notes</title>
-        <author>
-            <name>Anesio Neto</name>
-        </author>
-        <link href="https://anesioneto.github.io/augmented-notes/"/>
-        <id>https://anesioneto.github.io/augmented-notes/</id>
-
-        <updated>2026-03-05T13:37:57+00:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
