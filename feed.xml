@@ -3,10 +3,33 @@
     <title>Augmented Notes</title>
     <link href="https://anesioneto.github.io/feed.xml" rel="self" />
     <link href="https://anesioneto.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-03-05T20:06:31+00:00</updated>
     <author>
         <name>Anesio Neto</name>
     </author>
     <id>https://anesioneto.github.io</id>
 
+    <entry>
+        <title>Blog or repository?</title>
+        <author>
+            <name>Anesio Neto</name>
+        </author>
+        <link href="https://anesioneto.github.io/hello-world/"/>
+        <id>https://anesioneto.github.io/hello-world/</id>
+        <media:content url="https://anesioneto.github.io/media/posts/3/ChatGPT-Image-Mar-5-2026-08_05_53-PM.png" medium="image" />
+
+        <updated>2026-03-05T18:43:46+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://anesioneto.github.io/media/posts/3/ChatGPT-Image-Mar-5-2026-08_05_53-PM.png" alt="" />
+                    A traditional blog is a space for regularly published posts, such as thoughts, updates, tutorials or commentary, written in chronological order. A repository, on the other hand, tends to be&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://anesioneto.github.io/media/posts/3/ChatGPT-Image-Mar-5-2026-08_05_53-PM.png" class="type:primaryImage" alt="" /></p>
+                <p>A traditional blog is a space for regularly published posts, such as thoughts, updates, tutorials or commentary, written in chronological order. A repository, on the other hand, tends to be more structured and archival in nature. It's a place where information, resources, links and references are organised so they can easily be revisited and explored over time.<br><br>My Augmented Notes sits somewhere in between these two concepts. Rather than being a purely chronological stream of posts or a strictly organised catalogue of resources, it’s intended to function as a hybrid space — a place to collect and reflect on knowledge. Some entries may feel like short summaries of recent developments, while others may provide more in-depth analysis, experimentation, or insight into emerging trends in immersive technologies.<br><br>You will find a mix of curated information, industry observations and personal perspectives on AR, VR, XR and the broader ecosystem surrounding spatial computing. The goal is not only to document what is happening in the field, but also to build a growing knowledge base and share the journey of exploring these technologies.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
