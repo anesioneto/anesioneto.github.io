@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Augmented Notes</title>
+    <link href="https://anesioneto.github.io/feed.xml" rel="self" />
+    <link href="https://anesioneto.github.io" />
+    <updated>2026-03-05T13:37:57+00:00</updated>
+    <author>
+        <name>Anesio Neto</name>
+    </author>
+    <id>https://anesioneto.github.io</id>
+
+    <entry>
+        <title>Augmented Notes</title>
+        <author>
+            <name>Anesio Neto</name>
+        </author>
+        <link href="https://anesioneto.github.io/augmented-notes.html"/>
+        <id>https://anesioneto.github.io/augmented-notes.html</id>
+
+        <updated>2026-03-05T13:37:57+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
